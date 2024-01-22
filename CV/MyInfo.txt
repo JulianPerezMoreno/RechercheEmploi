@@ -1,0 +1,6 @@
+Nom
+Prenom
+Date
+e-mail
+Code postale
+GSM
